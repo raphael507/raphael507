@@ -5,4 +5,7 @@ The web application is full of features available that enable dynamic of a real-
 
 ## Installation
 
-**python manage.py runserver** 
+# Creating superuser
+* python manage.py createsuperuser  
+# Running the django server
+* python manage.py runserver 
