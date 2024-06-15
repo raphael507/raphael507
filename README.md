@@ -11,5 +11,10 @@ The web application is full of features available that enable dynamic of a real-
 # Requirements
 * pip install -r requirements.txt
 
+# Run the migrations
+* python manage.py migrate
+### After run makemigrations
+* python manage.py makemigrations
+
 # Running the django server
 * python manage.py runserver 
