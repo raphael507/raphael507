@@ -6,6 +6,10 @@ The web application is full of features available that enable dynamic of a real-
 ## Installation
 
 # Creating superuser
-* python manage.py createsuperuser  
+* python manage.py createsuperuser
+
+# Requirements
+* pip install -r requirements.txt
+
 # Running the django server
 * python manage.py runserver 
